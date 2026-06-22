@@ -108,6 +108,20 @@ npm install
 node server.js
 ```
 
+## 📸 Screenshots
+
+### Home Page
+![Home](assets/screenshots/home.png)
+
+### Services Page
+![Services](assets/screenshots/services.png)
+
+### Courses Page
+![Courses](assets/screenshots/courses.png)
+
+### Contact Page
+![Contact](assets/screenshots/contact.png)
+
 ## 🎯 Purpose
 
 This project was developed to provide Neoshaan Technologies with a professional online presence, enabling customers and students to explore services, training programs, and career opportunities efficiently.
