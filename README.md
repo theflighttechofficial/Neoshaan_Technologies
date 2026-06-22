@@ -120,7 +120,7 @@ node server.js
 ![Courses](assets/screenshots/courses.png)
 
 ### Contact Page
-![Contact](assets/screenshots/contact.png)
+![Contact](assets/screenshots/contactus.png)
 
 ## 🎯 Purpose
 
