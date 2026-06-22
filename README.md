@@ -119,8 +119,8 @@ node server.js
 ### Courses Page
 ![Courses](assets/screenshots/courses.png)
 
-### Contact Page
-![Contact](assets/screenshots/contactus.png)
+### ContactUs Page
+![ContactUS](assets/screenshots/contactus.png)
 
 ## 🎯 Purpose
 
